@@ -1,0 +1,29 @@
+{
+  "name": "reactive-player",
+  "version": "1.0.0",
+  "description": "A Music player made with ReactJS",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "mp3",
+    "react"
+  ],
+  "author": "Pablo Westphalen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloWestphalen/reactive-player.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PabloWestphalen/reactive-player/issues"
+  },
+  "homepage": "https://github.com/PabloWestphalen/reactive-player#readme"
+}
